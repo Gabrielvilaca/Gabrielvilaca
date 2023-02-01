@@ -4,7 +4,6 @@
 - 📚Estudando HTML, CSS e JavaScript;
 - 💾Cada vez mais apaixonado por tecnologia;
 - 📫 How to reach me: gabriel.vilacadf@gmail.com or https://www.linkedin.com/in/gabriel-vilaça-417a42208/
-- 👨🏻‍💻Futuro Garoto de programa.
 
 <div align="center">
   <a href="https://github.com/Gabrielvilaca">
