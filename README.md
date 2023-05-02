@@ -1,7 +1,6 @@
 ### Olá! Meu nome é Gabriel e bem vindo ao meu perfil! 👋🎉
 
 - 🔨 Atualmente trabalho com Suporte de TI;
-- 📚Estudando HTML, CSS e JavaScript;
 - 💾Cada vez mais apaixonado por tecnologia;
 - 📫 How to reach me: gabriel.vilacadf@gmail.com or https://www.linkedin.com/in/gabriel-vilaça-417a42208/
 
