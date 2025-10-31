@@ -7,6 +7,13 @@
 
 ---
 
+### 🎯 Currently focused on
+<p align="center">
+  Studying for <b>LPIC-2</b> | Improving skills in <b>Docker</b>, <b>Kubernetes</b> & <b>Cloud Security</b>
+</p>
+
+---
+
 ### 📫 How to reach me
 <p align="center">
   <a href="mailto:gabriel.vilacadf@gmail.com">
@@ -22,7 +29,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/Gabrielvilaca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielvilaca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvilaca&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
@@ -35,7 +41,6 @@
   <img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Bash" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="Cloud" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img alt="AWS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </p>
 
 ---
