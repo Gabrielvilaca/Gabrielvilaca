@@ -31,6 +31,13 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img align="center" alt="GV-Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="GV-Bash" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="GV-Python" heigh
+  <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="Bash" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img alt="Cloud" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img alt="AWS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Gabrielvilaca">Gabriel Vilaça</a></p>
